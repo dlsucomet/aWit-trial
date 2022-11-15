@@ -1,4 +1,4 @@
-﻿rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,stream_category
+﻿rank,uri,artist_names,title,source,peak_rank,previous_rank,weeks_on_chart,streams,stream_category
 1,spotify:track:2m6Ko3CY1qXNNja8AlugNc,Troye Sivan,Angel Baby,EMI Recorded Music Australia Pty Ltd,1,1,39,2234959,10
 2,spotify:track:1oYQtNQUxSODedcc5hPmp9,Ace Banzuelo,Muli,Sony Music Entertainment,2,3,4,1971945,10
 3,spotify:track:769Ld8demNhMgVLAQcjTDn,anees,sun and moon,Anees LLC,1,2,9,1909008,10
