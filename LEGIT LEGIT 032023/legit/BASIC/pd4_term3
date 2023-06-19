@@ -1,0 +1,21 @@
+digraph G {
+	overlap=scale splines=true
+	edge [fontsize=12]
+	node [fillcolor="#cae6df" shape=circle style=filled]
+	valence [label=valence]
+	node [shape=box style=""]
+	danceability [label=danceability]
+	duration_ms [label=duration_ms]
+	key [label=key]
+	liveness [label=liveness]
+	loudness [label=loudness]
+	speechiness [label=speechiness]
+	tempo [label=tempo]
+	valence -> danceability [label=1.000]
+	valence -> key [label="-0.094\np-val: 0.73"]
+	valence -> loudness [label="0.777\np-val: 0.01"]
+	valence -> speechiness [label="0.626\np-val: 0.04"]
+	valence -> liveness [label="-0.156\np-val: 0.57"]
+	valence -> tempo [label="-0.021\np-val: 0.94"]
+	valence -> duration_ms [label="-1.240\np-val: 0.01"]
+}
