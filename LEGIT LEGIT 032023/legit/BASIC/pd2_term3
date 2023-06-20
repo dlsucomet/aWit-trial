@@ -28,7 +28,7 @@ digraph G {
 	stream_category [label=stream_category]
 	tempo [label=tempo]
 	valence [label=valence]
-	intrinsic -> chart_success [label="26.751\np-val: 0.88"]
+	intrinsic -> chart_success [label="26.752\np-val: 0.88"]
 	extrinsic -> chart_success [label="-6.145\np-val: 0.89"]
 	chart_success -> stream1 [label=1.000]
 	chart_success -> stream2 [label="1.012\np-val: 0.00"]
