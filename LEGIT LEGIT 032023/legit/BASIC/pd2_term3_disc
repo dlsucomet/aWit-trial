@@ -2,9 +2,9 @@ digraph G {
 	overlap=scale splines=true
 	edge [fontsize=12]
 	node [fillcolor="#cae6df" shape=circle style=filled]
-	extrinsic [label=extrinsic]
-	intrinsic [label=intrinsic]
 	chart_success [label=chart_success]
+	intrinsic [label=intrinsic]
+	extrinsic [label=extrinsic]
 	node [shape=box style=""]
 	artist_collab [label=artist_collab]
 	chart_history [label=chart_history]
