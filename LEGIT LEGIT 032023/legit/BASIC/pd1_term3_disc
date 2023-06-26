@@ -2,10 +2,10 @@ digraph G {
 	overlap=scale splines=true
 	edge [fontsize=12]
 	node [fillcolor="#cae6df" shape=circle style=filled]
-	crowdsource [label=crowdsource]
-	chart_success [label=chart_success]
 	intrinsic [label=intrinsic]
 	extrinsic [label=extrinsic]
+	chart_success [label=chart_success]
+	crowdsource [label=crowdsource]
 	node [shape=box style=""]
 	add_playlist [label=add_playlist]
 	artist_collab [label=artist_collab]
